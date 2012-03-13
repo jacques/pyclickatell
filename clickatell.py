@@ -5,6 +5,10 @@ Interface on https://api.clickatell.com/
 
 See U{the Clickatell HTTP/S API documentation<http://www.clickatell.com/downloads/http/Clickatell_http_2.2.7.pdf>}
 for more information on how their HTTP/S API interface works
+
+Author: Jacques Marneweck <jacques@powertrip.co.za> (jacquesmarneweck.com)
+Copyright: 2006-2012 Jacques Marneweck.  All rights reserved.
+License: MIT LICENSE
 """
 
 import urllib
